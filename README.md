@@ -19,12 +19,12 @@
 My Profile
 -------------------------------
 Name: Chalondra (Alfian).
-WhoamI: High School Student 🏫.
+Who am I: High School Student 🏫.
 Gender: Male.
 Location: Jakarta, Indonesia.
 Loves: Videogames 🎮, Stuff technology 🚀, Books 📚.
 Hobbies: Gaming, Coding while I am listening Music 🎶.
-Languages: CPlusPlus, CSharp, CSS, HTML, JavaScript, Python, Go.8bh
+Languages: CPlusPlus, CSharp, CSS, HTML, JavaScript, Python, Go.
 Learning: Computer Science.
 Telegram: @itschalondra.
 ```
