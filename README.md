@@ -7,7 +7,7 @@
 </div>
 <br>
 
-<h2 align="center"> 💬 Tentang aku <img src="https://media1.giphy.com/media/PivShcAVhKARq/giphy.gif?cid=6c09b9521btucjq53yw4y8z3bgitgiudagt6euoj3igk8cms&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="40" /></h2>
+<h2 align="center"> 💬 Tentang aku <"40" /></h2>
 
 ```zsh
 > neofetch
