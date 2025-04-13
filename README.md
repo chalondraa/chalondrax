@@ -7,7 +7,7 @@
 </div>
 <br>
 
-<h2 align="center"> 💬 Tentang aku <"40" /></h2>
+<h2 align="center"> 💬 Tentang aku /></h2>
 
 ```zsh
 > neofetch
