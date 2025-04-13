@@ -7,7 +7,7 @@
 </div>
 <br>
 
-<h2 align="center"> 💬 About me
+<h2 align="center"> 💬 About me <width 40
 
 ```zsh
 > neofetch
