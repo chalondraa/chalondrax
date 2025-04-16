@@ -7,7 +7,7 @@
 </div>
 <br>
 
-<h1><img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/analytics.webp" width="57px">ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs
+<h1><img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/analytics.webp" width="57px">ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h2>
 <h2 align="center"> 💬 Tentang aku </h2>
 
 ```zsh
