@@ -133,10 +133,5 @@ My programming languages include Python, Go, JavaScript, Node.js, C, C#, C++, CS
   <summary><h2>🔗 Let's connect <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="40" height="40" /></h2></summary>
   <div align="center">
     <p><b>If you want to talk to me about anything, be it some sort of doubt or just to hang out. ☺️</b><br>
-    <b>All my social media handles are provided below. I will definitely reply. Be patient. 👍</b></p>
-    <br>
-    <table>
-      <tr>
-        <td align="center" style="width: 40%;">
-          <a align="center">
+    <b>All my social media handles are provided below. I will definitely reply. Be patient. 👍</
 <a href="https://telegram.me/FallenAssociation"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
