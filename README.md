@@ -134,6 +134,6 @@ My programming languages include Python, Go, JavaScript, Node.js, C, C#, C++, CS
   <div align="center">
     <p><b>
 
- ──「 ᴀɴᴏɴ ダ ᴍᴜsɪᴄ 」──
+ ──「 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ 」──
 </h2>
-<a href="https://telegram.me/FallenAssociation"><img src="https://img.shields.io/badge/-Telegram-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/itschalondra"><img src="https://img.shields.io/badge/-Telegram-blue.svg?style=for-the-badge&logo=Telegram"></a>
