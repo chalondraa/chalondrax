@@ -126,7 +126,7 @@ My programming languages include Python, Go, JavaScript, Node.js, C, C#, C++, CS
     </a>
   </div>
 </details>
-<br>
+<br>. 
 
 
 <details>
@@ -139,8 +139,7 @@ My programming languages include Python, Go, JavaScript, Node.js, C, C#, C++, CS
       <tr>
         <td align="center" style="width: 40%;">
           <a href="https://telegram.dog/itschalondra">
-            <img width="45" src="https://static.cdnlogo.com/logos/t/6/telegram.svg"><br>
-<img src="https://img.shields.io/badge/My%20Telegram-black?style=for-the-badge&logo=Telegram" width="45""/></a></p>
+            <img width="45"  src="https://img.shields.io/badge/My%20Telegram-black?style=for-the-badge&logo=Telegram" width="45""/></a></p>
             <b>@itschalondra</b>
           </a>
         </td>
