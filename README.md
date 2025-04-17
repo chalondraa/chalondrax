@@ -7,8 +7,6 @@
 </div>
 <br>
 
-<h2> align="center"><b> src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/analytics.webp" width="57px">ᴀʙᴏᴜᴛ ᴍᴇ </h2>
-
 ```zsh
 > neofetch
 ```
